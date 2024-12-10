@@ -1,0 +1,20 @@
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\obj\Debug\TINY_Compiler.csprojAssemblyReference.cache
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\obj\Debug\JASON_Compiler.Form1.resources
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+D:\Compiler Theory\project\[2021-2022] JASON_Compiler_Template - For StudentsEditation\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\obj\Debug\TINY_Compiler.csprojAssemblyReference.cache
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\obj\Debug\JASON_Compiler.Form1.resources
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+D:\Compiler Theory\project\Tiny Language Scanner\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
